@@ -1,0 +1,8 @@
+Steps that I fllowed for this end to end projects:
+1. Import data from kaggle using kaggle api
+2. Identify the Business Problems.
+3. Load the data and perform necessery cleaning for preparing the data using Pandas.
+4. Load the data into postgree database using SQL Alchemy
+5. Perform EDA using SQL -> Create the findings as view
+6. Load the results on PowerBI and make an Interactive dashboard for data story telling
+7. Create a powerfull report using notion for the stakeholders.
