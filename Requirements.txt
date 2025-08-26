@@ -1,0 +1,23 @@
+🔹 Growth & Revenue
+Which industries and regions generated the highest revenue over the years?
+What is the YoY revenue growth rate for each company?
+Which companies have the highest ARPU (Average Revenue Per User), and how does that compare across industries?
+
+🔹 Profitability & Efficiency
+Which companies have the best profit margins (Profit/Revenue)?
+Which industries show the highest expenses relative to revenue (burn rate)?
+Top 10 companies contributing the most profit globally.
+
+🔹 Customer & Churn
+What is the average churn rate across industries, and which industry suffers the most churn?
+How does churn rate correlate with revenue and profit?
+Which regions/industries have the fastest customer growth?
+
+🔹 Market Share & Competition
+Which companies/industries dominate the market (highest Market_Share_Percent)?
+Top 5 regions with the highest SaaS market share concentration.
+
+🔹 Strategic SaaS Metrics (derived via SQL)
+Calculate Revenue per Employee (if employee data is added later) or Revenue per Customer (ARPU) trend.
+Which industries/companies maintained both high ARPU and low churn simultaneously?
+Market share trend of top 10 companies across 2020–2024.
