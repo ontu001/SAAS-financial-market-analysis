@@ -15,9 +15,3 @@ Which regions/industries have the fastest customer growth?
 
 🔹 Market Share & Competition
 Which companies/industries dominate the market (highest Market_Share_Percent)?
-Top 5 regions with the highest SaaS market share concentration.
-
-🔹 Strategic SaaS Metrics (derived via SQL)
-Calculate Revenue per Employee (if employee data is added later) or Revenue per Customer (ARPU) trend.
-Which industries/companies maintained both high ARPU and low churn simultaneously?
-Market share trend of top 10 companies across 2020–2024.
